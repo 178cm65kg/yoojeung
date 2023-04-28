@@ -1,26 +1,3 @@
-# yoojeung
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Tetris Game</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <div id="game-container">
-      <div id="game-board"></div>
-      <div id="score">Score: 0</div>
-      <button id="start-button">Start Game</button>
-    </div>
-    <script src="script.js"></script>
-  </body>
-</html>
-
-my-tetris-game/
-├── index.html
-├── style.css
-└── script.js
-
 #game-container {
   margin: 0 auto;
   text-align: center;
@@ -61,4 +38,3 @@ my-tetris-game/
   background-color: #ccc;
   cursor: pointer;
 }
-
